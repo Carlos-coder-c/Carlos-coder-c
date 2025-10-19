@@ -18,13 +18,33 @@
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
  </div>
 
+## 👨‍💻 Sobre mim
+
+Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios que me permitam crescer e contribuir com soluções criativas.
+
+### 🚀 Tecnologias que domino:
+- **Linguagens:** C#, Java, Python, JavaScript
+- **Frameworks:** Flask
+- **Banco de dados:** SQLite3
+- **Outros:** Git, GitHub, boas práticas de desenvolvimento e versionamento de código
+
+### 🎯 Interesses:
+- Desenvolvimento de aplicações web, Crud e Apps
+- Projetos que envolvam automação e eficiência
+- Aprendizado contínuo e compartilhamento de conhecimento
+
+### 📫 Conecte-se comigo:
+Fique à vontade para explorar meus repositórios, contribuir com ideias ou trocar experiências sobre tecnologia e desenvolvimento!
+
+---
+
+_"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
+
  <br>
 
-## Some of my stats :bar_chart:
+## Grafico de commits
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carlos-coder-c&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
-|--|--|
-
+<img src="https://github-readme-stats.vercel.app/api?username=Carlos-coder-c&show_icons=true&theme=radical&include_all_commits=true">
 <br>
 
   
