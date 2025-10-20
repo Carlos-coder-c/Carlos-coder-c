@@ -5,11 +5,11 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
 
 
 ### 🚀 Tecnologias que domino:
-- **Linguagens:** C#, Java, Python, JavaScript
-- **Frameworks:** Flask
+- **Back-end:** Java, Python e C#
+- **Front-end:** JavaScript, HTML E CSS
 - **Banco de dados:** SQLite3
-- **Outros:** Git, GitHub, boas práticas de desenvolvimento e versionamento de código
-
+- **Outros:** Git, GitHub
+## 🌐Tecnologias e Frameworks:
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,11 +21,6 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
  </div>
 
-### 📫 Conecte-se comigo:
-Fique à vontade para explorar meus repositórios, contribuir com ideias ou trocar experiências sobre tecnologia e desenvolvimento!
-ce391121@gmail.com
-
----
 
 _"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
 
