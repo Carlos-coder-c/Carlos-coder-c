@@ -19,7 +19,6 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-  <img align="center" alt="Carlos-Flask" height="30" width="40" src="<https://github.com/user-attachments/assets/b840aeee-55e6-486b-8dff-d018113b26ba">
 
  </div>
  
