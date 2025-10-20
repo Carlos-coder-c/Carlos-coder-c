@@ -20,10 +20,12 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
  </div>
+ 
 
 
 
-_"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
+
+"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
 
 
 
