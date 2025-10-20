@@ -42,7 +42,6 @@ _"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
 
  <br>
 
-## Grafico de commits
 
 <img src="https://github-readme-stats.vercel.app/api?username=Carlos-coder-c&show_icons=true&theme=radical&include_all_commits=true">
 <br>
