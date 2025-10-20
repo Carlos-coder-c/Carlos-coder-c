@@ -36,10 +36,9 @@ Fique à vontade para explorar meus repositórios, contribuir com ideias ou troc
 
 _"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
 
- <br>
+## 📊 Estatística 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Carlos-coder-c&show_icons=true&theme=radical&include_all_commits=true">
-<br>
-
-  
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlos-coder-c&show_icons=true&locale=pt-br&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-coder-c&layout=compact&langs_count=7&locale=pt-br&theme=tokyonight&custom_title=Tecnologias"/>
+</div>
