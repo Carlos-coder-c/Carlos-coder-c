@@ -22,7 +22,10 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
  </div>
 
 
+
 _"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
+
+
 
 ## 📊 Estatística 
 
