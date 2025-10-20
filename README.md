@@ -1,5 +1,4 @@
-## Olá! Eu sou o Carlos Eduardo um dev full-stack
-## 👨‍💻 Sobre mim
+## 👨‍💻 Carlos Eduardo
 
 Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios que me permitam crescer e contribuir com soluções criativas.
 - 🔭 Sou freelancer back end e Dev Full stack na Red Caker uma pequena empresa.
