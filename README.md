@@ -2,12 +2,10 @@
 
 
 - 🔭 Hoje sou freelancer back end e Dev Full stack na Red Caker uma pequena empresa
-- 🌱 Estou estudando Flask e sqlite3
+- 
+## 👨‍💻 Sobre mim
 
-- 📫 Contate-me: ce391121@gmail.com
-- 😄 Pronomes: Ele/dele
-
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,8 +15,6 @@
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
  </div>
-
-## 👨‍💻 Sobre mim
 
 Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios que me permitam crescer e contribuir com soluções criativas.
 
