@@ -1,7 +1,7 @@
 ## 👨‍💻 Carlos Eduardo
 
 Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios que me permitam crescer e contribuir com soluções criativas.
-- 🔭 Sou freelancer back end e Dev Full stack na Red Caker uma pequena empresa.
+- 🔭 Sou Dev Python na Red Caker.
 
 
 ### 🚀 Tecnologias que domino:
@@ -15,7 +15,6 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
 
