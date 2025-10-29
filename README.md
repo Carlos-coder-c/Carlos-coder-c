@@ -5,7 +5,7 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
 
 
 ### 🚀 Tecnologias que domino:
-- **Back-end:** Java, Python e C#
+- **Back-end:** Python 
 - **Front-end:** JavaScript, HTML E CSS
 - **Banco de dados:** SQLite3
 - **Outros:** Git, GitHub
