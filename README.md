@@ -39,3 +39,8 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos-coder-c&show_icons=true&theme=dracula&include_all_commits=true"/>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlos-coder-c&layout=compact&langs_count=7&theme=dracula"/>
 
+## 🐍 Snake da contribuição
+
+![Snake animation](https://raw.githubusercontent.com/Carlos-coder-c/Carlos-coder-c/output/github-contribution-grid-snake.svg)
+
+
