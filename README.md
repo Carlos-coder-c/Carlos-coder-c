@@ -16,12 +16,15 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-<img src="https://static.cdnlogo.com/logos/s/68/sqlite.svg" alt="SQLite" width="40"/>
-<img src="https://icon-icons.com/icon/mongodb-logo/64647" alt="MongoDB" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/NumPy_logo_2020.svg" alt="NumPy" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" alt="Pandas" width="40"/>
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="40"/>
-<img src="https://seeklogo.com/images/F/fastapi-logo-499530F38D-seeklogo.com.svg" alt="FastAPI" width="40"/>
+<p align="center">
+  <img src="https://static.cdnlogo.com/logos/s/68/sqlite.svg" alt="SQLite" width="45" style="margin-right:12px;" />
+  <img src="https://icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" alt="MongoDB" width="45" style="margin-right:12px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/NumPy_logo_2020.svg" alt="NumPy" width="45" style="margin-right:12px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" alt="Pandas" width="45" style="margin-right:12px;" />
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="45" style="margin-right:12px;" />
+  <img src="https://seeklogo.com/images/F/fastapi-logo-499530F38D-seeklogo.com.svg" alt="FastAPI" width="45" />
+</p>
+
 
 
  </div>
