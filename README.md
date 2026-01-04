@@ -2,21 +2,27 @@
 
 Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios que me permitam crescer e contribuir com soluções criativas.
 - 🔭 Sou Dev Python na Red Caker.
+- E tambem sou um récem-Cientista de dados Usando NumPy e Pandas em Python....
 
 
 ### 🚀 Tecnologias que domino:
-- **Back-end:** Python 
-- **Front-end:** JavaScript, HTML E CSS
-- **Banco de dados:** SQLite3
+- **Back-end:** Python , Django e FastApi
+- **Front-end:** HTML E CSS
+- **Banco de dados:** SQLite3, MongoDB e PostgreSql
 - **Outros:** Git, GitHub
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+<img src="https://static.cdnlogo.com/logos/s/68/sqlite.svg" alt="SQLite" width="40"/>
+<img src="https://icon-icons.com/icon/mongodb-logo/64647" alt="MongoDB" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/NumPy_logo_2020.svg" alt="NumPy" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" alt="Pandas" width="40"/>
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="40"/>
+<img src="https://seeklogo.com/images/F/fastapi-logo-499530F38D-seeklogo.com.svg" alt="FastAPI" width="40"/>
+
 
  </div>
  
