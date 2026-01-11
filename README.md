@@ -1,7 +1,7 @@
 ## 👨‍💻 Carlos Eduardo
 
 Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Tenho experiência em diversas linguagens e frameworks, e estou sempre em busca de novos desafios que me permitam crescer e contribuir com soluções criativas.
-- 🔭 Sou Dev Python na Red Caker.
+- 🔭 Sou Dev Python.
 - E tambem sou um récem-Cientista de dados Usando NumPy e Pandas em Python....
 
 
