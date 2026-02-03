@@ -8,7 +8,7 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
 ### 🚀 Tecnologias que domino:
 - **Back-end:** Python , Django e FastApi
 - **Front-end:** HTML E CSS
-- **Banco de dados:** SQLite3, MongoDB e PostgreSql
+- **Banco de dados:** SQLite3, MongoDB.
 - **Outros:** Git, GitHub
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,6 @@ Olá! Sou Carlos, com paixão por resolver problemas através da tecnologia. Ten
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   <img align="center" alt="Carlos-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Carlos-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Carlos-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Carlos-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Carlos-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Carlos-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
