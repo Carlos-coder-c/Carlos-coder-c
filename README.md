@@ -5,7 +5,7 @@ Sou o Carlos. Gosto de meter a mão no código para resolver problemas e aprende
 - 🔭 Sou Dev Python.
 
 
-### 🚀 Tecnologias que domino:
+### 🚀 Tecnologias:
 - **Back-end:** Python , Django e FastApi
 - **Front-end:** HTML E CSS
 - **Banco de dados:** SQLite3, MongoDB.
