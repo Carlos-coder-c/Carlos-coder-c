@@ -7,12 +7,9 @@ Sou o Carlos. Gosto de meter a mão no código para resolver problemas e aprende
 
 ### 🚀 Tecnologias:
 - **Back-end:** Python , Django e FastApi
-- **Front-end:** HTML E CSS
 - **Banco de dados:** SQLite3.
 - **Outros:** Git, GitHub
   <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
   <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
