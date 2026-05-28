@@ -1,33 +1,94 @@
-## 👨‍💻 Carlos Eduardo
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   $ whoami                                                ║
+║   > carlos_eduardo — python dev & linux enjoyer           ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-Sou o Carlos. Gosto de meter a mão no código para resolver problemas e aprender algo novo no processo. Busco desafios que me tirem da zona de conforto e me façam evoluir como dev.
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Sou Dev Python.
+```python
+class Carlos:
+    role       = "Python Developer"
+    focus      = ["Back-end", "Linux", "Cybersecurity"]
+    stack      = ["Python", "Django", "FastAPI", "SQLite3"]
+    os         = "Linux  (obviously)"
+    currently  = "Breaking things to understand them"
+```
 
+<br clear="right"/>
 
-### 🚀 Tecnologias:
-- **Back-end:** Python , Django e FastApi
-- **Banco de dados:** SQLite3.
-- **Outros:** Git, GitHub
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carlos-Git" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-  <img align="center" alt="Carlos-Github" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-  <img align="center" alt="Carlos-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
- 
-  <img align="center" alt="Carlos-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Carlos-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+---
 
+## `$ cat interests.txt`
 
+```
+[+] Python — back-end, automação, scripts que resolvem problemas reais
+[+] Linux  — terminal sobre tudo, sempre
+[+] Cybersecurity — entender o sistema para não ser explorado por ele
+[+] Open Source — código que vive além do criador
+```
 
- </div>
- 
+---
 
+## `$ ls -la stack/`
 
+<div align="center">
 
+| Layer | Tools |
+|---|---|
+| **Language** | Python |
+| **Frameworks** | Django · FastAPI |
+| **Database** | SQLite3 |
+| **Infra** | Git · GitHub · Linux |
 
-"Desenvolver é transformar ideias em soluções que impactam vidas."_ 💡
+</div>
 
+<br>
+
+<div align="center">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
+  <img alt="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>
+  <img alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+</div>
+
+---
+
+## `$ cat philosophy.txt`
+
+```bash
+#!/bin/bash
+# Minha abordagem de trabalho
+
+echo "Prefiro código que funciona a código que impressiona"
+echo "Terminal > GUI, sempre que possível"
+echo "Entender o erro é metade da solução"
+echo "Segurança não é feature, é fundação"
+```
+
+---
+
+## `$ ./connect.sh`
+
+```
+[~] GitHub  → você já está aqui
+[~] ...      → em construção
+```
+
+---
+
+<div align="center">
+
+```
+[ sistema online · aprendendo em produção · sempre ]
+```
+
+</div>
 
 
 ## 📊 Estatística 
