@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20251024/pngtree-cyber-security-hacker-with-digital-interface-image_19972736.webp" width="100%"/>
+  <img src="https://png.pngtree.com/thumb_back/fh260/background/20251024/pngtree-cyber-security-hacker-with-digital-interface-image_19972736.webp" width="75%"/>
 </div>
 
 
