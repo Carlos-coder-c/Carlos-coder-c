@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+  <img src="https://static.vecteezy.com/ti/vetor-gratis/t2/25463781-uma-misterioso-e-perigoso-hacker-com-binario-codigo-fundo-ilustracao-vetor.jpg" width="100%"/>
 </div>
 
 
