@@ -82,11 +82,11 @@ exit 0
 <div align="center">
 
 ```
-[ 🟢 sistema online ]  [ aprendendo em produção ]  [ sempre ]
 ```
 
-</div>  
-## 📊 Estatística 
+</div> 
+
+##  📊 Estatística 
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos-coder-c&show_icons=true&theme=dracula&include_all_commits=true"/>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlos-coder-c&layout=compact&langs_count=7&theme=dracula"/>
 
