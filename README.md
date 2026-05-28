@@ -1,83 +1,80 @@
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   $ whoami                                                ║
-║   > carlos_eduardo — python dev & linux enjoyer           ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+```
+▓█████▄ ▓█████ ██▒   █▓
+▒██▀ ██▌▓█   ▀▓██░   █▒
+░██   █▌▒███   ▓██  █▒░
+░▓█▄   █▌▒▓█  ▄  ▒██ █░░
+░▒████▓ ░▒████▒  ▒▀█░  
+ ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  
+```
 
 ```python
 class Carlos:
-    role       = "Python Developer"
-    focus      = ["Back-end", "Linux", "Cybersecurity"]
-    stack      = ["Python", "Django", "FastAPI", "SQLite3"]
-    os         = "Linux  (obviously)"
-    currently  = "Breaking things to understand them"
+    role      = "Python Developer"
+    focus     = ["Python", "Linux", "Cybersecurity"]
+    interest  = ["FastAPI", "Pentest"]
+    os        = "Linux # obviously"
+    status    = "learning by breaking things"
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
-## `$ cat interests.txt`
+## `> interests.log`
 
 ```
-[+] Python — back-end, automação, scripts que resolvem problemas reais
-[+] Linux  — terminal sobre tudo, sempre
-[+] Cybersecurity — entender o sistema para não ser explorado por ele
-[+] Open Source — código que vive além do criador
+[*] Python      — scripts, automação e lógica que resolve problemas reais
+[*] POO         — modelando o mundo com código limpo e estruturado
+[*] Linux       — terminal acima de tudo, sempre
+[*] Pentest     — encontrar a falha antes que alguém mal-intencionado encontre
+[*] FastAPI     — próximo na fila, REST do jeito certo
 ```
 
 ---
 
-## `$ ls -la stack/`
+## `> stack --list`
 
 <div align="center">
 
-| Layer | Tools |
-|---|---|
-| **Language** | Python |
-| **Frameworks** | Django · FastAPI |
-| **Database** | SQLite3 |
-| **Infra** | Git · GitHub · Linux |
+<img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+&nbsp;&nbsp;
+<img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+&nbsp;&nbsp;
+<img alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+&nbsp;&nbsp;
+<img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
-  <img alt="FastAPI" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/>
-  <img alt="SQLite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
-  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img alt="Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+
+| Skill | Status |
+|---|---|
+| Python | `■■■■■░░░` em evolução |
+| POO | `■■■■░░░░` construindo |
+| Git | `■■■■░░░░` no fluxo |
+| Linux | `■■■░░░░░` aprendendo |
+| Pentest | `■░░░░░░░` no radar |
+
 </div>
 
 ---
 
-## `$ cat philosophy.txt`
+## `> cat mindset.sh`
 
 ```bash
 #!/bin/bash
-# Minha abordagem de trabalho
 
-echo "Prefiro código que funciona a código que impressiona"
-echo "Terminal > GUI, sempre que possível"
-echo "Entender o erro é metade da solução"
-echo "Segurança não é feature, é fundação"
-```
+echo "[+] entender o erro é metade da solução"
+echo "[+] terminal > gui, sempre que possível"
+echo "[+] segurança não é feature — é fundação"
+echo "[+] código que funciona > código que impressiona"
 
----
-
-## `$ ./connect.sh`
-
-```
-[~] GitHub  → você já está aqui
-[~] ...      → em construção
+exit 0
 ```
 
 ---
@@ -85,12 +82,10 @@ echo "Segurança não é feature, é fundação"
 <div align="center">
 
 ```
-[ sistema online · aprendendo em produção · sempre ]
+[ 🟢 sistema online ]  [ aprendendo em produção ]  [ sempre ]
 ```
 
-</div>
-
-
+</div>  
 ## 📊 Estatística 
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlos-coder-c&show_icons=true&theme=dracula&include_all_commits=true"/>
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Carlos-coder-c&layout=compact&langs_count=7&theme=dracula"/>
