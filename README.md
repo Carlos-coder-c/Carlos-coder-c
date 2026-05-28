@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20251024/pngtree-cyber-security-hacker-with-digital-interface-image_19972736.webp" width="80%"/>
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000009a0720ebb813c0480a38fdd&ts=494443&p=fs&cid=1&sig=d8e3adf3734096d738d13d4781d100cc19d5c24fa4961dd3cc19ab5a34f5af1b&v=0" width="80%"/>
 </div>
 
 
