@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://static.vecteezy.com/ti/vetor-gratis/t2/25463781-uma-misterioso-e-perigoso-hacker-com-binario-codigo-fundo-ilustracao-vetor.jpg" width="100%"/>
+  <img src="https://png.pngtree.com/thumb_back/fh260/background/20251024/pngtree-cyber-security-hacker-with-digital-interface-image_19972736.webp" width="100%"/>
 </div>
 
 
