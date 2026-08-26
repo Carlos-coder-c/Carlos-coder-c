@@ -81,7 +81,7 @@ exit 0
 </div> 
 
 ##  📊 Estatística 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlos-eduardoco&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🐍 Snake da contribuição
 
