@@ -81,8 +81,7 @@ exit 0
 </div> 
 
 ##  📊 Estatística 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlos-eduardoc&show_icons=true&theme=dracula&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlos-eduardoc&layout=compact&langs_count=7&theme=dracula"/>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🐍 Snake da contribuição
 
