@@ -81,7 +81,9 @@ exit 0
 </div> 
 
 ##  📊 Estatística 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlos-eduardoc&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=carlos-eduardoc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardoc" />
+
 ## 🐍 Snake da contribuição
 
 ![Snake animation](https://raw.githubusercontent.com/Carlos-coder-c/Carlos-coder-c/output/github-contribution-grid-snake.svg)
