@@ -82,7 +82,7 @@ exit 0
 
 ##  📊 Estatística 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-eduardoc&theme=dark" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=carlos-eduardoc&theme=dark" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos-eduardoc&theme=2077" height="165" />
 </p>
 
