@@ -81,8 +81,10 @@ exit 0
 </div> 
 
 ##  📊 Estatística 
-<img src="https://github-readme-stats.vercel.app/api?username=carlos-eduardoc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardoc" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos-eduardoc&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-eduardoc&layout=compact&theme=dark" />
+</p>
 
 ## 🐍 Snake da contribuição
 
