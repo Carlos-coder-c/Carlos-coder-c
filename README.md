@@ -82,8 +82,7 @@ exit 0
 
 ##  📊 Estatística 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=carlos-eduardoc&theme=dark" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos-eduardoc&theme=2077" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos-eduardoc&show_icons=true&theme=dark" height="165" />
 </p>
 
 ## 🐍 Snake da contribuição
