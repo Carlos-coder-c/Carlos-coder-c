@@ -37,7 +37,7 @@ class Carlos:
 [*] Linux       — terminal acima de tudo, sempre
 [*] Redes       — entender como os dados se movem antes de tentar quebrá-los
 [*] Pentest     — encontrar a falha antes que alguém mal-intencionado encontre
-[*] FastAPI     — próximo na fila, REST do jeito certo
+[*] Django     — próximo na fila, REST do jeito certo
 ```
 
 ---
