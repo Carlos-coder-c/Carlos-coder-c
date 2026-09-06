@@ -66,7 +66,7 @@ class Carlos:
 ## `> stats --fetch`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-eduardoc&theme=dark&hide_border=true&background=0D0221&ring=A970FF&fire=A970FF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888" height="165" />
+  <<img src="https://streak-stats.demolab.com/?user=carlos-eduardoc&theme=dark&hide_border=true&background=0D0221&ring=A970FF&fire=A970FF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos-eduardoc&theme=2077" height="165" />
 </p>
 
