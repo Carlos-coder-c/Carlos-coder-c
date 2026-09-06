@@ -56,13 +56,6 @@ class Carlos:
 
 </div>
 
-<div align="center">
-
-```
-```
-
-</div> 
-
 ##  📊 Estatística 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-eduardoc&theme=dark" height="165" />
