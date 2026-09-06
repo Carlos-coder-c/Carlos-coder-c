@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ChatGPT Image 28 de mai. de 2026, 16_24_47.png" width="90%">
+  <img src="banner.jpeg" width="90%">
 </div>
 
 
