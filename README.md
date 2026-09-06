@@ -23,7 +23,7 @@ class Carlos:
 
 <div align="center">
 
-`git log --author="Carlos" --oneline` — um dev iniciante que trata cada erro como uma aula.
+`git log --author="Carlos" --oneline`
 
 </div>
 
