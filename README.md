@@ -56,11 +56,8 @@ class Carlos:
 &nbsp;&nbsp;
 <img alt="Linux" height="46" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 &nbsp;&nbsp;
-<img alt="Bash" height="46" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
-&nbsp;&nbsp;
 <img alt="GitHub" height="46" width="46" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"/>
 &nbsp;&nbsp;
-<img alt="Wireshark" height="46" width="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg"/>
 
 </div>
 
