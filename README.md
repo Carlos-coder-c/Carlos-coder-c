@@ -56,23 +56,6 @@ class Carlos:
 
 </div>
 
----
-
-## `> cat mindset.sh`
-
-```bash
-#!/bin/bash
-
-echo "[+] entender o erro é metade da solução"
-echo "[+] terminal > gui, sempre que possível"
-echo "[+] segurança não é feature — é fundação"
-echo "[+] código que funciona > código que impressiona"
-
-exit 0
-```
-
----
-
 <div align="center">
 
 ```
