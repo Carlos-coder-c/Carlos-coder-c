@@ -91,6 +91,4 @@ class Carlos:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:3B0A66,100:0D0221&height=80&section=footer" width="100%"/>
 
-**`$ echo "cada linha de código é um passo. cada bug, uma aula."`**
-
 </div>
